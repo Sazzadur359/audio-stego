@@ -1,0 +1,10 @@
+D:\Project-wave\Audio\Practice1\Practice1\obj\Debug\exam.csproj.AssemblyReference.cache
+D:\Project-wave\Audio\Practice1\Practice1\obj\Debug\Practice1.Form1.resources
+D:\Project-wave\Audio\Practice1\Practice1\obj\Debug\exam.csproj.GenerateResource.cache
+D:\Project-wave\Audio\Practice1\Practice1\obj\Debug\exam.csproj.CoreCompileInputs.cache
+D:\Project-wave\Audio\Practice1\Practice1\bin\Debug\Practice1.exe.config
+D:\Project-wave\Audio\Practice1\Practice1\bin\Debug\Practice1.exe
+D:\Project-wave\Audio\Practice1\Practice1\bin\Debug\Practice1.pdb
+D:\Project-wave\Audio\Practice1\Practice1\obj\Debug\Practice1.Properties.Resources.resources
+D:\Project-wave\Audio\Practice1\Practice1\obj\Debug\Practice1.exe
+D:\Project-wave\Audio\Practice1\Practice1\obj\Debug\Practice1.pdb
